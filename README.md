@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fernando (a.k.a. Terry Stang)  
-🚀 Frontend Developer | 🛠️ Builder by Mind | 🐎 Mustang Lover
+🚀 Frontend Developer | 🛠️ Builder by Mind | 
 
 Welcome to my GitHub Profile! I'm a passionate self-taught developer from 🇲🇽 Mexico, building real projects every day while working toward a remote future.
 
@@ -7,7 +7,7 @@ Welcome to my GitHub Profile! I'm a passionate self-taught developer from 🇲�
 
 ## 🧠 Skills  
 - HTML5 / CSS3  
-- JavaScript (in progress)  
+- JavaScript 
 - Responsive Design  
 - Git & GitHub  
 - UI Cloning & Web Layouts  
@@ -15,12 +15,6 @@ Welcome to my GitHub Profile! I'm a passionate self-taught developer from 🇲�
 - Critical Thinking & Problem Solving with AI tools like ChatGPT (used daily for learning, planning, and communication improvement) 
 
 ---
-
-## 🔧 Projects  
-🧩 [Movie Search App](https://github.com/terry-stang92/movie-search-)  
-📝 [FAQ Page](https://github.com/terry-stang92/faq---page)  
-📰 [Newsletter Layout](https://github.com/terry-stang92/newsletter)  
-🌵 [Cactus Page (Live)](https://terry-stang92.github.io/cactus/)
 
 ---
 
