@@ -1,38 +1,40 @@
-# 👋 Hi, I'm Fernando (a.k.a. Terry Stang)  
-🚀 Frontend Developer | 🛠️ Builder by Mind | 
+# Hi, I'm Fernando Terrazas 👋
 
-Welcome to my GitHub Profile! I'm a passionate self-taught developer from 🇲🇽 Mexico, building real projects every day while working toward a remote future.
+Junior Developer from Rio Bravo, Tmps. Mexico focused on **JavaScript and the MERN stack**.
 
----
+💻 I build projects daily to improve my skills in full-stack development.
 
-## 🧠 Skills  
-- HTML5 / CSS3  
-- JavaScript 
-- Responsive Design  
-- Git & GitHub  
-- UI Cloning & Web Layouts  
-- Chat Support & Virtual Assistant Tasks 
-- Critical Thinking & Problem Solving with AI tools like ChatGPT (used daily for learning, planning, and communication improvement) 
+## 🚀 Currently Working On
+MERN **E-Commerce Project**
 
----
+Building a full stack application with:
 
----
+- MongoDB
+- Express
+- React
+- Node.js
 
-## 📚 Certificates  
-- HTML + CSS - brace_wolf Academy  
-- Project Management - Coursera  
-- Microsoft Excel - Alison  
-- Quality Assurance - Internal Program  
+## 🧠 Currently Learning
+- Backend development
+- REST APIs
+- Database design
+- Authentication systems
 
----
+## 🔧 Tech Stack
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Responsive Design
 
-## 💪 About Me  
-- I train like a black belt 🥋 and think like a coder 🧠  
-- Passionate about muscle cars, freedom, and digital independence  
-- Focused, humble, and always improving  
-- 🎯 My dream: live free, work remote, build useful things
+## 📂 Projects
+Some of my projects:
 
----
+- Movie Search App
+- Random Word Generator
+- Portfolio Website
+- E-commerce UI
 
-📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/terry-stang92)**  
+## 🌎 Portfolio
+Deployed projects on Netlify
 
