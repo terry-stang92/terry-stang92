@@ -32,8 +32,8 @@ Some of my projects:
 
 - Movie Search App
 - Random Word Generator
-- Portfolio Website
-- E-commerce UI
+- Ferreteria del Noreste
+- Irongforge gym 
 
 ## 🌎 Portfolio
 Deployed projects on Netlify
