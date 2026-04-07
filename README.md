@@ -27,14 +27,7 @@ Building a full stack application with:
 - Git & GitHub
 - Responsive Design
 
-## 📂 Projects
-Some of my projects:
 
-- Movie Search App
-- Random Word Generator
-- Ferreteria del Noreste
-- Irongforge gym 
 
-## 🌎 Portfolio
-Deployed projects on Netlify
+
 
