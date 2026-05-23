@@ -1,33 +1,45 @@
-# Hi, I'm Fernando Terrazas 👋
+# Fernando Terrazas 
+### Full Stack Developer — Río Bravo, Tamaulipas, Mexico
 
-Junior Developer from Rio Bravo, Tmps. Mexico focused on **JavaScript and the MERN stack**.
+---
 
-💻 I build projects daily to improve my skills in full-stack development.
+##  What I Build
 
-## 🚀 Currently Working On
-MERN **E-Commerce Project**
+Production-ready web applications for real businesses.
+E-commerce stores, admin panels, landing pages, 
+and full stack MERN apps.
+Clean code. Modern design. Deployed and live.
 
-Building a full stack application with:
+---
 
-- MongoDB
-- Express
-- React
-- Node.js
+##  Tech Stack
 
-## 🧠 Currently Learning
-- Backend development
-- REST APIs
-- Database design
-- Authentication systems
+**Frontend**
+React · JavaScript · HTML5 · CSS3 · Tailwind CSS
 
-## 🔧 Tech Stack
-- JavaScript
-- HTML5
-- CSS3
-- Git & GitHub
-- Responsive Design
+**Backend**
+Node.js · Express · MongoDB · REST APIs
 
+**Tools**
+Git · GitHub · Netlify · Render · Vercel
 
+---
 
+##  Live Projects
 
+| Project | Stack | Demo |
+|---------|-------|------|
+| [Bull Supplements](https://terry-stang92.github.io/bull-suplements/) | HTML CSS JS | Live ✅ |
+| [IronForge Shop](TU_LINK) | MERN Stack | Live ✅ |
+| [Hardware Store](TU_LINK) | React Tailwind | Live ✅ |
+| [Restaurant Menu](TU_LINK) | React Tailwind | Live ✅ |
+| [Real Estate](TU_LINK) | HTML CSS JS | Live ✅ |
+
+---
+
+##  Let's Work Together
+
+Available for freelance projects and remote positions.
+Bilingual — English / Spanish 🇺🇸🇲🇽
+CST Timezone — US-Mexico border
 
