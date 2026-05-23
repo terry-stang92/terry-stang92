@@ -30,10 +30,10 @@ Git · GitHub · Netlify · Render · Vercel
 | Project | Stack | Demo |
 |---------|-------|------|
 | [Bull Supplements](https://terry-stang92.github.io/bull-suplements/) | HTML CSS JS | Live ✅ |
-| [IronForge Shop](TU_LINK) | MERN Stack | Live ✅ |
-| [Hardware Store](TU_LINK) | React Tailwind | Live ✅ |
-| [Restaurant Menu](TU_LINK) | React Tailwind | Live ✅ |
-| [Real Estate](TU_LINK) | HTML CSS JS | Live ✅ |
+| [IronForge Shop](https://iron-forge-gym-terry.netlify.app/) | MERN Stack | Live ✅ |
+| [Hardware Store]((https://hardware-store-react.netlify.app/)) | React Tailwind | Live ✅ |
+| [Restaurant Menu](https://splendid-buttercream-36fe97.netlify.app/) | React Tailwind | Live ✅ |
+| [Real Estate](https://terry-stang92.github.io/real-estate-landing/) | HTML CSS JS | Live ✅ |
 
 ---
 
